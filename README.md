@@ -24,6 +24,11 @@ An iOS ARKit-based app that places a 3D cube in the real world using the device 
 
 > ⚠️ Note: AR features may not work fully on simulators — a real iPhone is preferred.
 
+## Project Screenshot
+
+![Screenshot]
+
+
 ## ✨ Future Improvements
 
 - Add multiple cube types
