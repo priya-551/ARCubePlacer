@@ -24,10 +24,9 @@ An iOS ARKit-based app that places a 3D cube in the real world using the device 
 
 > ⚠️ Note: AR features may not work fully on simulators — a real iPhone is preferred.
 
-## Project Screenshot
+## 📸 Project Screenshot
 
-![Screenshot]
-
+![ARCubePlacer Screenshot](https://github.com/priya-551/ARCubePlacer/blob/main/screenshot.png?raw=true)
 
 ## ✨ Future Improvements
 
